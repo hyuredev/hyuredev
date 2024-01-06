@@ -1,7 +1,7 @@
 ### Opa, eu sou o Hyure Barbosa
 
 - 🔭 Hoje trabalho com front end
-- 🌱 Estudando Javascript
+- 🌱 Atualmente estou estudando Javascript e CSS
 - 📫 Contate-me no email hyurecaue2017@gmail.com
 - 😄 Pronouns: ele/dele
 - 
