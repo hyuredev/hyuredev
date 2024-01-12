@@ -20,3 +20,9 @@ Sobre mim:
   <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3Bp9FZDgPlS4i80gjm%2BFXKcQ%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+<br>
+
+![hyuredev GitHub stats](https://github-readme-stats.vercel.app/api?username=hyuredev&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyuredev&layout=compact)
+
