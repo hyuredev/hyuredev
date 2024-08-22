@@ -1,8 +1,7 @@
-### Opa, eu sou o Hyure Barbosa, sou um programador front-end e busco adquirir conhecimento através dos meus projetos aqui no meu perfil.
+### Olá, meu nome é Hyure, estudo programação e busco adquirir conhecimento através dos meus projetos aqui no meu perfil.
 Sobre mim: 
-- 💼 Hoje trabalho com front end mas estou aberto a novas oportunidades.
-- 📚 Atualmente estou estudando Javascript e CSS.
-- 📖 Procuro aprender Machine Learning e Segurança de Dados.
+- 📚 Atualmente estou estudando Typescript, Ionic e Angular.
+- 📖 Procuro aprender Java, C# e C++.
 - ⭐️ Contate-me no email: hyurecaue2017@gmail.com
 
 <div style="display: inline_block"><br>
