@@ -10,6 +10,7 @@ Sobre mim:
   <img align="center" alt="hure-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="hure-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="hure-PHP" height="45" width="50" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor">
+  <img align="center" alt="hure-PHP" height="45" width="50" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=148&color=370b0b">
 </div>
 
  ##
